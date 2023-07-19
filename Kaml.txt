@@ -3,5 +3,5 @@
 1|0|3|8|9|u|0|_|a|3|8|9 Zanyarr
 1|0|3|2|8|u|0|_|a|3|2|8 Gardi
 1|0|3|7|8|u|0|_|a|3|7|8 cukur (ibrahem)
-1|0|3|2|4|u|0|_|a|3|2|4 mr (hatahataya)
+1|0|3|2|4|u|0|_|a|3|2|4 mr $ (hatahataya)
 1|0|2|4|5|u|0|_|a|2|4|5 Zamo $ (hathataya)

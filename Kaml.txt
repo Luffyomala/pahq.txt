@@ -1,14 +1,6 @@
 1|0|4|0|1|u|0|_|a|4|0|1 Xom
-1|0|1|9|7|u|0|_|a|1|9|7 A7a kalary
-1|0|4|6|5|u|0|_|a|4|6|5 Zanyarr
 1|0|3|7|1|u|0|_|a|3|7| Gardi
-1|0|3|7|8|u|0|_|a|3|7|8 cukur (ibrahem)
 1|0|3|2|4|u|0|_|a|3|2|4 mr $ (hatahataya)
-1|0|2|4|5|u|0|_|a|2|4|5 Zamo $ (hathataya)
-1|0|5|9|1|u|0|_|a|5|9|1 bray ( ibrahem )
-1|0|2|4|4|u|0|_|a|2|4|4 isma3el 
-1|0|5|5|2|u|0|_|a|5|5|2 shafeq rafeq (test)
-1|0|2|7|5|u|0|_|a|2|7|5 new sa7at
 1|0|8|8|0|u|0|_|a|8|8|0 Ranyai $
 1|1|3|8|7|u|0|_|a|1|3|8|7 Akam
 0|r|o|o|t quta ios
